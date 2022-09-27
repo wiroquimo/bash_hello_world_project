@@ -1,0 +1,1 @@
+# bash_hello_world_project
